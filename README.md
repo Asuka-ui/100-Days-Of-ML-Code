@@ -12,7 +12,7 @@
   * [数据预处理](https://github.com/Asuka-ui/100-Days-Of-ML-Code/blob/main/100-Days-Of-ML-Code/day1/Data_Preprocessing.py)
   * [简单线性回归](https://github.com/Asuka-ui/100-Days-Of-ML-Code/blob/main/100-Days-Of-ML-Code/day2/Linear_Regression.py)
   * [多元线性回归](https://github.com/Asuka-ui/100-Days-Of-ML-Code/blob/main/100-Days-Of-ML-Code/day3/Multiple_Linear_Regression.py)
-  * 逻辑回归
+  * [逻辑回归](https://github.com/Asuka-ui/100-Days-Of-ML-Code/blob/main/100-Days-Of-ML-Code/day4-6/Logistic%20Regression.py)
   * k近邻法(k-NN)
   * 支持向量机(SVM)
   * 决策树
